@@ -6,10 +6,6 @@ The MERN stack which consists of **Mongo DB**, **Express.js**, **Node.js**, and 
 <br/><br/>
 This repo consists of a **Chat Application** built with the MERN stack. I built this sometime back when I was trying to learn the stack and I have left it here for anyone new to the stack so that they can use this repo as a guide.
 <br/><br/>
-This is a full-stack chat application that can be up and running with just a few steps. 
-Its frontend is built with [Material UI](https://material-ui.com/) running on top of React.
-The backend is built with Express.js and Node.js.
-Real-time message broadcasting is developed using [Socket.IO](https://socket.io/).
 
 ### Features
 
@@ -20,7 +16,7 @@ This application provides users with the following features
 * A **Private Chat** functionality where users can chat with other users privately.
 * Real-time updates to the user list, conversation list, and conversation messages
 
-#### Screenshots
+
 
 ##### Global Chat
 ![Global Chat](https://i.imgur.com/VkdwAme.png)
@@ -45,15 +41,3 @@ You can have this application up and running with just a few steps because it ha
 5. The frontend of the application will be automatically opened in your web browser and you can test it away.
 
 
-### Things to note
-
-* The frontend is created using [create-react-app](https://github.com/facebook/create-react-app)
-* Database connections in the backend are handled using the [Mongoose ORM](https://mongoosejs.com/)
-* Code quality is ensured using (ESLint)[https://eslint.org/]
-
-### Disclaimer
-
-This repository contains beginner level code and might contain some things I wish to change or remove. I have not maintained this for quite some time, but now I am trying to slowly fix these issues. You are welcome to open issues if you find any and I will accept PR's as well.
-<br/><br/>
-
-Cheers 💻 🍺 🔥 🙌
